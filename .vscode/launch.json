@@ -5,7 +5,7 @@
       "name": "Debug index.py",
       "type": "debugpy",
       "request": "launch",
-      "program": "${workspaceFolder}/implementing-a-data-loader.py",
+      "program": "${workspaceFolder}/5.implementing-a-compact-self-attention-python-class.py",
     },
   ]
 }
